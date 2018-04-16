@@ -1,0 +1,64 @@
+1522830538931	geckodriver	INFO	geckodriver 0.20.0
+1522830538957	geckodriver	INFO	Listening on 127.0.0.1:57637
+1522830539509	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.GKQOYtR1Eq0C"
+1522830547280	Marionette	INFO	Enabled via --marionette
+1522830569110	Marionette	INFO	Listening on port 57643
+1522830569652	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nonymousTemporaryFile) Closed channel: cannot send/recv
+
+1522830606414	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 14272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523233693369	geckodriver	INFO	geckodriver 0.20.0
+1523233693392	geckodriver	INFO	Listening on 127.0.0.1:50852
+1523233693945	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.MoOlQgHLsh2t"
+1523233697932	Marionette	INFO	Enabled via --marionette
+1523233706432	Marionette	INFO	Listening on port 50857
+1523233706754	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.kmHIy0jmDnFP"
+1523233719240	Marionette	INFO	Enabled via --marionette
+1523233725050	Marionette	INFO	Listening on port 50910
+1523233725266	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523235466572	geckodriver	INFO	geckodriver 0.20.0
+1523235466591	geckodriver	INFO	Listening on 127.0.0.1:51186
+1523235467207	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile.7U01uEdtULU7"
+1523235469516	Marionette	INFO	Enabled via --marionette
+1523235477148	Marionette	INFO	Listening on port 51191
+1523235478052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 6667: TypeError: cannot use the given object as a weak map key
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: 
+  Message: Error: SessionFile is closed
+  Stack:
+    write@resource:///modules/sessionstore/SessionFile.jsm:385:29
+write@resource:///modules/sessionstore/SessionFile.jsm:73:12
+_writeState@resource:///modules/sessionstore/SessionSaver.jsm:363:12
+_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:12
+_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:347:5
+saveStateAsyncWhenIdle@resource://JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/nsAsyncShutdown.js, line 119: Error: We have already registered a distinct blocker with the same name: Crash Reporter: blocking on minidumpgeneration.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5260, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
